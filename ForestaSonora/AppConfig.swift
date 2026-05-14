@@ -7,7 +7,7 @@ enum AppConfig {
     static let relayDeadline: TimeInterval = 9
     static let relayTargets: Set<Int>? = nil
 
-    static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/0cb91029-c334-4a5f-9941-c0183818f288")!
+    static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/0ad3d59d-1822-45ae-866d-b908d551bd43")!
     static let supportEmail = "jelegafa@icloud.com"
 
     static var marketingVersion: String {
