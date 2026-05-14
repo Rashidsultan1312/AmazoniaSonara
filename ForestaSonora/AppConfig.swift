@@ -2,8 +2,8 @@ import Foundation
 import UIKit
 
 enum AppConfig {
-    static let relayHost = "tracker.foresta-sonora.app"
-    static let relayKey = "REPLACE_WITH_CAMPAIGN_TOKEN"
+    static let relayHost = "atvelupo.com"
+    static let relayKey = "9k1c8NXP9hLLjZqn"
     static let relayDeadline: TimeInterval = 9
     static let relayTargets: Set<Int>? = nil
 
